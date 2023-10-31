@@ -50,7 +50,7 @@ HTTP headers contain crucially important information and instructions for both r
 
 Request headers will contain information/instructions about the requested resource, while response headers provide information/instructions about the response. 
 
-> 📚 The **Content-Type** header is a [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types), which identifies the type of media contained in a request or response. This helps the browser determine what to do with the data. 
+The **Content-Type** header is a [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types), which identifies the type of media contained in a request or response. This helps the browser determine what to do with the data. 
 
 
 ### The body of the message
@@ -59,5 +59,5 @@ The body contains the data being sent to the server (if any) and the data being 
 
 In the above example, the body of the request contains data, while the body of the response returns `HTML`.
 
-> 📚 Although the HTTP protocol is text-based, the content in the body can be binary - for example, images are typically transferred in a binary format.
+Although the HTTP protocol is text-based, the content in the body can be binary - for example, images are typically transferred in a binary format.
 

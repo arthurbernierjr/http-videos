@@ -12,12 +12,12 @@ tktk Write a short but descriptive summary of the content in this module.
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
+| [Fundamentals](./fundamentals/README.md) | -- | -- | Fundamentals |
 | [Anatomy of HTTP request/response messages](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered |
 | [The two key components of an HTTP request](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered |
 | [HTTP methods](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
 | [URLs](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
 | [Sending HTTP requests from the browser](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
-| [How HTTP requests run code on the server](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
 | **Total content**                                        | -- | -- | --                  |
 
 ## Level Up content

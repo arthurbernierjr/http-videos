@@ -44,10 +44,20 @@ It is always a three-digit number that falls within the following ranges/categor
 
 Most HTTP responses will have a status code of `200`, which means OK. You also might be familiar with the status code of `404` - **Not Found**. MDN maintains a full list of status codes with a summary of each [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status).
 
+### Headers
+
+HTTP headers contain crucially important information and instructions for both requests and responses
+
+Request headers will contain information/instructions about the requested resource, while response headers provide information/instructions about the response. 
+
+> 📚 The **Content-Type** header is a [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types), which identifies the type of media contained in a request or response. This helps the browser determine what to do with the data. 
+
+
 ### The body of the message
 
 The body contains the data being sent to the server (if any) and the data being returned by the server.
 
-The Content-Type header is a [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) and helps the browser determine what to do with the data being sent in the body of the HTTP response. As an example if the content type of a response is text/html then the browser will parse the body content as HTML and, depending on how the HTTP request was initiated, usually replace the browser window's content with the newly received HTML.
+In the above example, the body of the request contains data, while the body of the response returns `HTML`.
 
-Although the HTTP protocol is text-based, the content in the body can be binary, for example, images are typically transferred in a binary format.
+> 📚 Although the HTTP protocol is text-based, the content in the body can be binary - for example, images are typically transferred in a binary format.
+

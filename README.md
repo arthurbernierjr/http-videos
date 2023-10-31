@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![HTTP Request Response Cycle](./assets/tktk-hero.png)
 
 ## About
 

@@ -24,7 +24,7 @@ tktk Write a short but descriptive summary of the content in this module.
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk skills covered |
+| [Additional HTTP methods](./level-up/additional-http-methods.md) | -- | -- | Covers all of the HTTP methods |
 | **Total Level Up content**                                          | -- | -- | --                  |
 
 ## References

@@ -2,12 +2,11 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
+- [Status Codes - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [MIME types - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
 - [tktk descriptive name of link]()
 
 ## Level Up references
 
 - [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
+

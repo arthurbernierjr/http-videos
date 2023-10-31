@@ -6,17 +6,18 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Intro to Full Stack Development
 
 ## Content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| [Anatomy of HTTP request/response messages](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered |
+| [The two key components of an HTTP request](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered |
+| [HTTP methods](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| [URLs](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| [Sending HTTP requests from the browser](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| [How HTTP requests run code on the server](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
 | **Total content**                                        | -- | -- | --                  |
 
 ## Level Up content
@@ -24,8 +25,6 @@ tktk Write a short but descriptive summary of the content in this module.
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
 | [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk skills covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk skills covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk skills covered |
 | **Total Level Up content**                                          | -- | -- | --                  |
 
 ## References

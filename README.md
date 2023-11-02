@@ -24,7 +24,7 @@ tktk Write a short but descriptive summary of the content in this module.
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Additional HTTP methods](./level-up/additional-http-methods.md) | -- | -- | Covers all of the HTTP methods |
+| [Additional HTTP methods](./level-up/additional-http-methods.md) | -- | -- | Covers all of the available HTTP methods |
 | **Total Level Up content**                                          | -- | -- | --                  |
 
 ## References

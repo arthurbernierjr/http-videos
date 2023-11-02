@@ -8,12 +8,13 @@ This release modularizes the legacy [tktk previous lecture name] lecture and pro
 
 **Additions**
 
-
+Fundamentals microlesson introducing HTTP
 
 **Changes**
 
-
+Additional HTTP methods moved to levelup
 
 **Removals**
+
 
 

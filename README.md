@@ -12,8 +12,8 @@ tktk Write a short but descriptive summary of the content in this module.
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Fundamentals](./fundamentals/README.md) | -- | -- | Fundamentals |
-| [Anatomy of HTTP request/response messages](./anatomy-of-http-request-response-messages/README.md) | -- | -- | tktk skills covered |
+| [Fundamentals](./fundamentals/README.md) | -- | -- | Define HTTP and an HTTP request/response cycle. |
+| [Anatomy of HTTP request/response messages](./anatomy-of-http-request-response-messages/README.md) | -- | -- | Understand request and response messages. |
 | [The two key components of an HTTP request](./the-two-key-components-of-an-http-request/README.md) | -- | -- | tktk skills covered |
 | [HTTP methods](./http-methods/README.md) | -- | -- | tktk skills covered |
 | [URLs](./urls/README.md) | -- | -- | tktk skills covered |

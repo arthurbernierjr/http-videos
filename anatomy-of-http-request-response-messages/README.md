@@ -1,6 +1,6 @@
 # ![HTTP Request Response Cycle - Anatomy of HTTP Request/Response Messages](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to understand request and response messages.
 
 ## Anatomy of Request and Response Messages
 

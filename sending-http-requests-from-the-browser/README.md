@@ -1,6 +1,6 @@
 # ![HTTP Request Response Cycle - Sending HTTP Requests From the Browser](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will learn the ways a browser can send HTTP requests. 
 
 ## Ways to send an HTTP request from the browser 
 

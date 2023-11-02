@@ -17,7 +17,7 @@ tktk Write a short but descriptive summary of the content in this module.
 | [The two key components of an HTTP request](./the-two-key-components-of-an-http-request/README.md) | -- | -- | HTTP request syntax and URIs. |
 | [HTTP methods](./http-methods/README.md) | -- | -- | Defines basic HTTP methods - GET, POST, PUT, and DELETE. |
 | [URLs](./urls/README.md) | -- | -- | Understanding URL syntax. |
-| [Sending HTTP requests from the browser](./sending-http-requests-from-the-browser/README.md) | -- | -- | tktk skills covered |
+| [Sending HTTP requests from the browser](./sending-http-requests-from-the-browser/README.md) | -- | -- | Methods by which a browser can send HTTP requests.  |
 | **Total content**                                        | -- | -- | --                  |
 
 ## Level Up content

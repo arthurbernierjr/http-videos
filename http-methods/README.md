@@ -1,6 +1,6 @@
 # ![HTTP Request Response Cycle - HTTP methods](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to define the basic HTTP methods. 
 
 ## HTTP Methods
 

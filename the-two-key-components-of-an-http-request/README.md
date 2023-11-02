@@ -1,6 +1,6 @@
 # ![HTTP Request Response Cycle - The Two Key Components of an HTTP Request ](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will understand HTTP request syntax and URIs.
 
 ## The two key components of any HTTP request
 

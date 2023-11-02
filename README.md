@@ -2,11 +2,11 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module introduces HTTP and the HTTP Request and Response cycle.
 
 ## Prerequisites
 
-- Intro to Full Stack Development
+None
 
 ## Content
 
@@ -31,13 +31,6 @@ tktk Write a short but descriptive summary of the content in this module.
 
 📖 [Reference Materials](./references/README.md)
 
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
 
 ## Internal resources
 

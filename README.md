@@ -1,44 +1,36 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![HTTP Request Response Cycle](./assets/tktk-hero.png)
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module introduces HTTP and the HTTP Request and Response cycle.
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+None
 
 ## Content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered |
+| [Fundamentals](./fundamentals/README.md) | -- | -- | Define HTTP and an HTTP request/response cycle. |
+| [Anatomy of HTTP request/response messages](./anatomy-of-http-request-response-messages/README.md) | -- | -- | The components of request and response messages. |
+| [The two key components of an HTTP request](./the-two-key-components-of-an-http-request/README.md) | -- | -- | HTTP request syntax and URIs. |
+| [HTTP methods](./http-methods/README.md) | -- | -- | Defines basic HTTP methods - GET, POST, PUT, and DELETE. |
+| [URLs](./urls/README.md) | -- | -- | Understanding URL syntax. |
+| [Sending HTTP requests from the browser](./sending-http-requests-from-the-browser/README.md) | -- | -- | Methods by which a browser can send HTTP requests.  |
 | **Total content**                                        | -- | -- | --                  |
 
 ## Level Up content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md) | -- | -- | tktk skills covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md) | -- | -- | tktk skills covered |
-| [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md) | -- | -- | tktk skills covered |
+| [Additional HTTP methods](./level-up/additional-http-methods.md) | -- | -- | Covers all of the available HTTP methods. |
 | **Total Level Up content**                                          | -- | -- | --                  |
 
 ## References
 
 📖 [Reference Materials](./references/README.md)
 
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
 
 ## Internal resources
 

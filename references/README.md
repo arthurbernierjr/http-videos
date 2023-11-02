@@ -1,13 +1,12 @@
-# ![[tktk Module Name] - References](./assets/hero.png)
+# ![HTTP Request Response Cycle - References](./assets/hero.png)
 
 ## Lesson references
 
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
+- [Status Codes - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [MIME types - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
+- [HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 
 ## Level Up references
 
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
+- [39 different HTTP Methods - IANA](http://www.iana.org/assignments/http-methods/http-methods.xhtml)
+

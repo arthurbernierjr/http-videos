@@ -6,7 +6,7 @@
 
 [HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) are used to indicate the desired action to be performed on a given resource (specified by the URI) on the server.
 
-We'll be using the following HTTP methods when we start defining routes:
+We'll be using the following HTTP methods when we start building our own server applications:
 
 | HTTP method | Desired action on server |
 | ----------- | ------------------------ |

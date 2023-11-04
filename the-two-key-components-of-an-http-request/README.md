@@ -11,8 +11,6 @@ GET /puppies
 ```
 
 1. The **HTTP method** (**GET** in the example above) is specified. This is kind of like an action that we want to perform.  **GET** would retrieve information, but you have other methods for creating, update, and deleting.
-2. The path/endpoint (**/puppies** in the example), also referred to as the URI.  This is kind of like the location of the resource upon which you are acting.
-
-> 🧠 A URI is not the same as a URL - A URI only identifies the requested resource, instead of specifying the full location as a URL would. For example, a URI of /puppies might correspond to a URL of https://awebsiteaboutdogs.com/puppies
+2. The path/endpoint (**/puppies** in the example).  This is kind of like the location of the resource upon which you are acting.
 
 These are considered the key components because most web applications use them to determine what to do in response to a request.

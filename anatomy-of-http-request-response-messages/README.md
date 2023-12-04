@@ -6,7 +6,7 @@
 
 The following diagrams an HTTP Request and Response Message:
 
-<img src="./assets/http-req-res-msg-anatomy.png" width="100%" alt="req/res message in the terminal">
+![req/res message in the terminal](./assets/http-req-res-msg-anatomy.png)
 
 Notice they both have a Start line followed by Headers, an Empty line, and finally the Body of the message.
 
@@ -26,12 +26,7 @@ Most HTTP responses will have a status code of `200`, which means OK. You also m
 
 ### Headers
 
-HTTP headers contain crucially important information and instructions for both requests and responses
-
-Request headers will contain information/instructions about the requested resource, while response headers provide information/instructions about the response. 
-
-The **Content-Type** header is a [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types), which identifies the type of media contained in a request or response. This helps the browser determine what to do with the data. 
-
+HTTP headers contain important information and instructions for both requests and responses. Request headers will contain information/instructions about the requested resource, while response headers provide information/instructions about the response. 
 
 ### The body of the message
 

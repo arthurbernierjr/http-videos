@@ -14,9 +14,9 @@ None
 | ------ |:----------:|:-----:| ------ |
 | [Fundamentals](./fundamentals/README.md) | -- | -- | Define HTTP and an HTTP request/response cycle. |
 | [Anatomy of HTTP Request and Response Messages](./anatomy-of-http-request-response-messages/README.md) | -- | -- | The components of request and response messages. |
-| [The two key components of an HTTP request](./the-two-key-components-of-an-http-request/README.md) | -- | -- | HTTP request syntax and URIs. |
-| [HTTP methods](./http-methods/README.md) | -- | -- | Defines basic HTTP methods - GET, POST, PUT, and DELETE. |
-| [Sending HTTP requests from the browser](./sending-http-requests-from-the-browser/README.md) | -- | -- | Methods by which a browser can send HTTP requests.  |
+| [The Two Key Components of an HTTP Request](./the-two-key-components-of-an-http-request/README.md) | -- | -- | HTTP request syntax and URIs. |
+| [HTTP Methods](./http-methods/README.md) | -- | -- | Defines basic HTTP methods - GET, POST, PUT, and DELETE. |
+| [Sending HTTP Requests From the Browser](./sending-http-requests-from-the-browser/README.md) | -- | -- | Methods by which a browser can send HTTP requests.  |
 | [URLs](./urls/README.md) | -- | -- | Understanding URL syntax. |
 | **Total content**                                        | -- | -- | --                  |
 
@@ -30,7 +30,6 @@ None
 ## References
 
 📖 [Reference Materials](./references/README.md)
-
 
 ## Internal resources
 

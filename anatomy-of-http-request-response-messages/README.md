@@ -35,4 +35,3 @@ The body contains the data being sent to the server (if any) and the data being 
 In the above example, the body of the request contains data, while the body of the response returns `HTML`.
 
 Although the HTTP protocol is text-based, the content in the body can be binary - for example, images are typically transferred in a binary format.
-

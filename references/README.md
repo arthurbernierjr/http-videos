@@ -10,4 +10,3 @@
 ## Level Up references
 
 - [39 different HTTP Methods - IANA](http://www.iana.org/assignments/http-methods/http-methods.xhtml)
-

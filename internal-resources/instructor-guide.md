@@ -1,4 +1,4 @@
-# ![Instructor Guide](../assets/instructor-guide.png)
+# ![HTTP Request Response Cycle - Instructor Guide](../assets/instructor-guide.png)
 
 
 ---

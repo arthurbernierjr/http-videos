@@ -1,0 +1,59 @@
+what is a request
+A request is a message sent by a client (like your web browser) to a server. It's a way of asking the server to perform an action or to send data. A request includes a method (like GET to retrieve data or POST to submit data), the address or URI (Uniform Resource Identifier) of the resource (like a webpage URL), and may include additional headers (which provide more information about the request) and sometimes a body (which contains data to be sent to the server).
+
+
+what is a response
+ A response is the message that the server sends back to the client in reply to a request. It contains a status code (like 200 for success or 404 for not found), which tells the client the outcome of the request. It also includes response headers (giving more information about the response) and usually a body, which contains the actual data or content requested (like an HTML page, an image, etc.), or an explanation of what happened if the request could not be fulfilled.
+
+
+HTTP Messages
+ HTTP messages are how data is exchanged between a server and a client. There are two types of messages: requests sent by the client to trigger an action on the server, and responses, the answer from the server.
+
+
+
+ HTTP Request Message: This is a message sent from a client (like a web browser) to a server. It initiates the communication and tells the server what the client wants to do. An HTTP request includes:
+
+A request method (e.g., GET, POST, PUT, DELETE) indicating the action the client wants to perform.
+The URI (Uniform Resource Identifier) of the resource the client wants to access or interact with.
+Headers containing additional information about the request, such as the type of content the client can accept.
+Sometimes, a body containing data (especially in methods like POST or PUT).
+HTTP Response Message: This is a message sent from the server back to the client in response to the client's HTTP request. It contains:
+
+A status line which includes the HTTP version, a status code (like 200 for success or 404 for not found), and a status message.
+Headers that provide information about the server and the response, such as the type of content in the response.
+Often, a body containing the resource or data requested (like HTML, JSON, an image, etc.), or information about the result of the request (like error details).
+In a typical HTTP interaction, the client sends an HTTP request to the server, and the server processes that request and sends back an HTTP response. This is why they are often discussed in tandem as part of the HTTP request-response cycle.
+
+
+
+
+Anatomy of HTTP Request and Response Messages:
+does not mention start line
+Start line followed by Headers, an Empty line, and finally the Body of the message.
+
+
+The Two Key Components of an HTTP Request
+does this need to be italics?
+request-line
+
+
+an HTTP method.
+the request-target which can be a URI or an URL to either a path or a protocol. URI is an identifier for a specific page, while the URL is a special type of identifier that can also contain information about how to access the resource.
+
+The Request-Line begins with a method token, followed by the Request-URI and the protocol version, and ending with CRLF. The elements are separated by space SP characters.
+
+
+
+
+> 📚 A *URI* or Uniform Resource Identifier, is a string of characters used to identify a resource on the server.
+>
+
+
+the blurb below is good but i'd like to work in path/endpoint somewhere
+URI: The part after the method (/puppies in the example) is the URI (Uniform Resource Identifier). It specifies the location or address of the resource on the server that you wish to act upon.
+
+
+> 🧠 A URI is not the same as a URL - A URI only identifies the requested resource, instead of specifying the full location as a URL would. For example, a URI of /puppies might correspond to a URL of https://awebsiteaboutdogs.com/puppies
+
+
+ This is kind of like the location of the resource upon which you are acting.

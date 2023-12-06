@@ -12,4 +12,3 @@ These are the ways that a browser can normally send an HTTP Request:
 | User submits an HTML form | POST, GET (used for searches) |
 | User clicks a link | GET |
 | Using JavaScript | Any |
-

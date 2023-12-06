@@ -5,6 +5,7 @@
 - [Status Codes - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 - [MIME types - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
 - [HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [HTTP (Hypertext Transfer Protocol)](https://developer.mozilla.org/en-US/docs/Web/HTTP) 
 
 ## Level Up references
 

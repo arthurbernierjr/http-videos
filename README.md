@@ -13,7 +13,7 @@ None
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
 | [Fundamentals](./fundamentals/README.md) | -- | -- | Define HTTP and an HTTP request/response cycle. |
-| [Anatomy of HTTP Request and Response Messages](./anatomy-of-http-request-response-messages/README.md) | -- | -- | The components of request and response messages. |
+| [Anatomy of HTTP Request-Response Messages](./anatomy-of-http-request-response-messages/README.md) | -- | -- | The components of request and response messages. |
 | [The Two Key Components of an HTTP Request](./the-two-key-components-of-an-http-request/README.md) | -- | -- | HTTP request syntax and URIs. |
 | [HTTP Methods](./http-methods/README.md) | -- | -- | Defines basic HTTP methods - GET, POST, PUT, and DELETE. |
 | [Sending HTTP Requests From the Browser](./sending-http-requests-from-the-browser/README.md) | -- | -- | Methods by which a browser can send HTTP requests.  |

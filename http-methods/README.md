@@ -1,4 +1,4 @@
-# ![HTTP Request Response Cycle - HTTP Methods](./assets/hero.png)
+# ![HTTP Request-Response Cycle - HTTP Methods](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to define the basic HTTP methods. 
 

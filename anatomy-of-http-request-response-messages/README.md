@@ -1,4 +1,4 @@
-# ![HTTP Request Response Cycle - Anatomy of HTTP Request-Response Messages](./assets/hero.png)
+# ![HTTP Request-Response Cycle - Anatomy of HTTP Request-Response Messages](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will understand request and response messages.
 
@@ -6,7 +6,7 @@
 
 Below is a diagram outlining the structures of both an HTTP request message and an HTTP response message:
 
-![req/res message in the terminal](./assets/http-req-res-msg-anatomy.png)
+![Request-Response Message Anatomy](./assets/http-req-res-msg-anatomy.png)
 
 Notice they both have a Start line followed by Headers, an Empty line, and finally the Body of the message.
 

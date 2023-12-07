@@ -1,4 +1,4 @@
-# ![HTTP Request Response Cycle - References](./assets/hero.png)
+# ![HTTP Request-Response Cycle - References](./assets/hero.png)
 
 ## Lesson references
 

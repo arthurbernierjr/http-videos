@@ -1,4 +1,4 @@
-# ![HTTP Request Response Cycle - Fundamentals](./assets/hero.png)
+# ![HTTP Request-Response Cycle - Fundamentals](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to define what HTTP is, and what an HTTP request/response cycle looks like.
 

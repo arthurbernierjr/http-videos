@@ -1,4 +1,4 @@
-# ![HTTP Request Response Cycle - The Two Key Components of an HTTP Request](./assets/hero.png)
+# ![HTTP Request-Response Cycle - The Two Key Components of an HTTP Request](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will understand HTTP request syntax and URIs.
 

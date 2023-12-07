@@ -1,4 +1,4 @@
-# ![HTTP Request Response Cycle - URLS](./assets/hero.png)
+# ![HTTP Request-Response Cycle - URLS](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to read URLs with a deeper understanding of their syntax. 
 

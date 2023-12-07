@@ -1,4 +1,4 @@
-# ![HTTP Request Response Cycle - Sending HTTP Requests From the Browser](./assets/hero.png)
+# ![HTTP Request-Response Cycle - Sending HTTP Requests From the Browser](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will learn the ways a browser can send HTTP requests. 
 

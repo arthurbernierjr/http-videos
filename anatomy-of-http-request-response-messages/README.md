@@ -1,4 +1,4 @@
-# ![HTTP Request Response Cycle - Anatomy of HTTP Request-Response Messages](./assets/hero.png)
+# ![HTTP Request-Response Cycle - Anatomy of HTTP Request-Response Messages](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will understand request and response messages.
 

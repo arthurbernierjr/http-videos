@@ -1,4 +1,4 @@
-# ![HTTP Request Response Cycle](./assets/hero.png)
+# ![HTTP Request-Response Cycle](./assets/hero.png)
 
 ## About
 

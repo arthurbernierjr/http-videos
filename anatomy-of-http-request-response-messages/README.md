@@ -6,7 +6,7 @@
 
 Below is a diagram outlining the structures of both an HTTP request message and an HTTP response message:
 
-![req/res message in the terminal](./assets/http-req-res-msg-anatomy.png)
+![Request-Response Message Anatomy](./assets/http-req-res-msg-anatomy.png)
 
 Notice they both have a Start line followed by Headers, an Empty line, and finally the Body of the message.
 

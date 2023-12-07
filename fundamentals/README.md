@@ -16,6 +16,8 @@ Imagine going to a restaurant. When you arrive, you sit (or are seated) at a tab
 
 ## The request-response cycle
 
+![HTTP Request-Response Cycle](./assets/req-res-cycle.png)
+
 The **HTTP request-response cycle** refers to the process where a client sends an *HTTP request* and the server subsequently issues an *HTTP response* to that request.
 
 > 📚 An *HTTP request* is a message sent by a client to a server, asking for specific resources or actions.
@@ -24,9 +26,9 @@ The **HTTP request-response cycle** refers to the process where a client sends a
 > 📚 An *HTTP response* is the message a server sends back to the client as a reply to an HTTP request.
 >
 
-Here's a diagram to help illustrate the process:
+Here's a diagram to help illustrate the steps in this process:
 
-![diagram of request response cycle](./assets/http-request-response-cycle.png)
+![HTTP Request-Response Cycle Steps](./assets/req-res-steps.png)
 
 1. A user interacts with a piece of client software (e.g. a web browser)
 2. The client software processes the interaction and requests information from a server, depending on the interaction

@@ -2,30 +2,31 @@
 
 ## About
 
-This module introduces HTTP and the HTTP Request and Response cycle.
+ In this module, you'll explore key aspects of HTTP, including request-response fundamentals, HTTP methods, message structure, and how browsers send requests. Enhance your web development skills with practical insights into client-server communication.This module is ideal for students who are comfortable with basic web development and are looking to deepen their understanding of client-server interactions. 
 
 ## Prerequisites
 
-None
+- Intro to Full-Stack Development
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Fundamentals](./fundamentals/README.md) | -- | -- | Define HTTP and an HTTP request/response cycle. |
-| [Anatomy of HTTP Request-Response Messages](./anatomy-of-http-request-response-messages/README.md) | -- | -- | The components of request and response messages. |
-| [The Two Key Components of an HTTP Request](./the-two-key-components-of-an-http-request/README.md) | -- | -- | HTTP request syntax and URIs. |
-| [HTTP Methods](./http-methods/README.md) | -- | -- | Defines basic HTTP methods - GET, POST, PUT, and DELETE. |
-| [Sending HTTP Requests From the Browser](./sending-http-requests-from-the-browser/README.md) | -- | -- | Methods by which a browser can send HTTP requests.  |
-| [URLs](./urls/README.md) | -- | -- | Understanding URL syntax. |
-| **Total content**                                        | -- | -- | --                  |
+| Lesson                                           | Video Time | Video | Skills        |
+|--------------------------------------------------|:----------:|:-----:|---------------|
+| [Concepts](./concepts/README.md)                 | --         | --    | Understanding the concept of HTTP |
+| [Fundamentals](./fundamentals/README.md)         | --         | --    | Explaining the HTTP request-response cycle |
+| [HTTP Methods](./http-methods/README.md)         | --         | --    | Defining basic HTTP methods: GET, POST, PUT, and DELETE |
+| [Anatomy of HTTP Request-Response Messages](./anatomy-of-http-request-response-messages/README.md) | -- | -- | Understanding status codes, headers, and the message body in HTTP communication |
+| [Sending HTTP Requests From the Browser](./sending-http-requests-from-the-browser/README.md) | -- | -- | Defining URL structure and how browsers send different types of HTTP requests |
+| **Total content**                                | --         | --    |            |
+
 
 ## Level Up content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Additional HTTP methods](./level-up/additional-http-methods.md) | -- | -- | Covers all of the available HTTP methods. |
-| **Total Level Up content**                                          | -- | -- | --                  |
+| Lesson                                                      | Video Time | Video | Skills        |
+|-------------------------------------------------------------|:----------:|:-----:|---------------|
+| [Additional HTTP methods](./level-up/additional-http-methods.md) | --         | --    | Examining all available HTTP methods |
+| **Total Level Up Content**                                  | --         | --    |            |
+
 
 ## References
 

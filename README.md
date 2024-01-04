@@ -2,7 +2,7 @@
 
 ## About
 
-In this module, you'll explore key aspects of HTTP including request-response fundamentals, HTTP methods, message structure, and how browsers send requests. You'll enhance your web development skills with practical insights into client-server communication. This module is ideal for students who are comfortable with basic web development and are looking to deepen their understanding of client-server interactions. 
+In this module, you'll explore key aspects of HTTP including request-response fundamentals, HTTP methods, message structure, and how browsers send requests. You'll enhance your web development skills with practical insights into client-server communication. This module is ideal for students who are comfortable with basic web development and want to deepen their understanding of client-server interactions. 
 
 ## Prerequisites
 

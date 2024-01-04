@@ -28,7 +28,7 @@ Without these two key components, a server does not have enough information to c
 
 ## HTTP Status Codes
 
-In HTTP communication, every response message includes a *status code*, a three-digit number that indicates the result of request-response transaction.
+In HTTP communication, every response message includes a *status code*, a three-digit number that indicates the result of a request-response transaction.
 
 These codes fall into distinct categories, each representing a different type of response:
 

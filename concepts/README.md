@@ -1,4 +1,4 @@
-# ![HTTP Request-Response Cycle - Concepts](./assets/tktk)
+# ![HTTP Request-Response Cycle - Concepts](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to explain the concept of HTTP (Hypertext Transfer Protocol).
 

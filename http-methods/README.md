@@ -6,7 +6,7 @@
 
 [HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) are used to indicate the desired action to be performed on a given resource on the server.
 
-| HTTP method | Desired action on server |
+| HTTP method | Desired action on the server |
 | ----------- | ------------------------ |
 | `GET` | Requests a specific resource from the server. Only used for retrieving data. |
 | `POST` | Sends data to the server to create a new resource. |

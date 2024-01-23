@@ -6,7 +6,7 @@
 
 [HTTP (Hypertext Transfer Protocol)](https://developer.mozilla.org/en-US/docs/Web/HTTP) is a set of rules that applications follow when communicating with each other over the internet. These rules help to ensure client and server applications can reliably communicate with one another.
 
-Imagine visiting a restaurant. When you enter and sit down, you are presented with a menu. The waitperson then asks for your order, giving you time to choose. After you make a selection, they relay the order to the kitchen and bring your meal when it is ready. This sequence is a *protocol* - a set of established rules for dining in a restaurant. If you tried to order directly from the chef or were brought random dishes without requesting them, the system would become confusing and chaotic.
+Imagine visiting a restaurant. When you enter and sit down, you are presented with a menu. The waitperson then asks for your order, giving you time to choose. After you make a selection, they relay the order to the kitchen and bring your meal when it is ready and present it to you. This sequence is a *protocol* - a set of established rules for dining in a restaurant. If you tried to order directly from the chef or were brought random dishes without requesting them, the system would become confusing and chaotic.
 
 Similarly, applications use the HTTP protocol to request and receive services provided by servers over the internet. This protocol ensures a smooth and orderly transfer of data, just like the rules in a restaurant guide the reliable order and delivery of your meal.
 

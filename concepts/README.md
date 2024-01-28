@@ -18,11 +18,11 @@ This sequence is a ***protocol*** - a set of established rules for dining in a r
 
 Similarly, applications use the HTTP protocol to request and receive services provided by servers over the internet. This protocol ensures a smooth and orderly transfer of data, just like the rules in a restaurant guide the reliable order and delivery of your meal.
 
-![Steps in the hypertext-transfer-protocol](./assets/hypertext-transfer-protocol.png)
-
 In a traditional web application, when you visit a website, you can browse and then take an action (such as clicking on a link). Using the HTTP protocol, your browser relays this *request* to a web server, which prepares and *responds* with a new HTML page. When your browser receives it, it is rendered in the browser window for you to see and interact with. The cycle can repeat - it is carried out on every request you make in the browser.
 
-To draw a parallel with our restaurant analogy, consider your interactions with the restaurant's waitstaff as the "protocol" allowing you (the client) to interact with the kitchen (the server), which is there to prepare food in response to your orders or requests. Just as the waitstaff in the restaurant prepares your order request for the kitchen and brings you the resulting prepared meal, the browser prepares your HTTP request and shows you the results of that request.
+![Steps in the hypertext-transfer-protocol](./assets/hypertext-transfer-protocol.png)
+
+To draw a parallel with our restaurant analogy, consider your interactions with the restaurant's waitstaff as the protocol allowing you (the client) to interact with the kitchen (the server), which is there to prepare food in response to your orders or requests. Just as the waitstaff in the restaurant prepares your order request for the kitchen and brings you the resulting prepared meal, the browser prepares your HTTP request and shows you the results of that request.
 
 ![HTTP Request-Response Cycle](./assets/req-res-cycle.png)
 

@@ -8,9 +8,9 @@
 
 [HTTP (Hypertext Transfer Protocol)](https://developer.mozilla.org/en-US/docs/Web/HTTP) is a set of rules that applications follow when communicating with each other over the internet. These rules help to ensure client and server applications can reliably communicate with one another.
 
-The **HTTP request-response cycle** refers to the process where a client sends an HTTP *request* and the server subsequently issues an HTTP *response* to that request.
+The **HTTP request-response cycle** refers to the process where a client sends an HTTP *request*, and the server subsequently issues an HTTP *response* to that request.
 
-Imagine visiting a restaurant. When you enter and sit down, you are presented with a menu. The waitperson then asks for your order, giving you time to choose. After you make a selection, they relay the order to the kitchen which receives your order. The kitchen prepares your meal. When it is ready it is brought and presented to you.
+Imagine visiting a restaurant. When you enter and sit down, you are presented with a menu. The waitperson then asks for your order, giving you time to choose. After you make a selection, they relay the order to the kitchen, which receives your order. The kitchen prepares your meal. When it is ready, it is brought and presented to you.
 
 ![Steps in the restaurant protocol](./assets/restaurant-protocol.png)
 
@@ -28,4 +28,4 @@ To draw a parallel with our restaurant analogy, consider your interactions with 
 
 This process is like a conversation. You ask (make a request), and then you get an answer (the response). Each cycle is a complete exchange, and a new one starts for every new action you take.
 
-> 📚 A *request* is a message sent by a client to a server, asking for specific resources or services. A *response* is the message a server sends back to the client as a reply to an *request*.
+> 📚 A *request* is a message a client sends to a server asking for specific resources or services. A *response* is the message a server sends back to the client as a reply to a *request*.

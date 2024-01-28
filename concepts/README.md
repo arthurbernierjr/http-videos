@@ -2,7 +2,7 @@
 
 **Learning objective:** By the end of this lesson, students will be able to explain the concept of HTTP (Hypertext Transfer Protocol).
 
-## What are HTTP and the request-response cycle?
+## What are HTTP and the HTTP request-response cycle?
 
 ![HTTP Request-Response Cycle](./assets/req-res-cycle.png)
 

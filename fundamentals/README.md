@@ -8,8 +8,6 @@ Let's take a deeper look into each stage of this the request-response cycle:
 
 ![HTTP Request-Response Cycle Steps](./assets/req-res-steps.png)
 
-tktk Hunter, we should update this asset based on the work you did in the concepts lecture for this. This also involved a copy change (adding the server receiving the request, which I've already made)
-
 1. The user interacts with the client software:
     - When you click a link, submit a form, or navigate to a URL, your web browser prepares to send a request to a server.
     - Think of each action you take as a specific request. Different types of requests may be carried out depending on the type of action that is made, but all generate requests.

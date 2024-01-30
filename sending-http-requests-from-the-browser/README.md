@@ -23,8 +23,6 @@ URL stands for **Uniform Resource Locator** and is commonly known as a ***web ad
 
 ![URL anatomy example for the URL https://generalassemb.ly](./assets/url-anatomy-c.png)
 
-tktk Hunter could you add an asset for this? I want there to be a lighter ramp in this lecture than there is now.
-
 Go to <https://generalassemb.ly>.
 
 #### Components

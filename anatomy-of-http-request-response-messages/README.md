@@ -10,8 +10,6 @@ Below is a diagram outlining the structures of both an HTTP request message and 
 
 ![Request-Response Message Anatomy](./assets/http-req-res-msg-anatomy.png)
 
-tktk Hunter, could you update this asset to add a header above each of these to indicate which message is a request and which is a response?
-
 Notice they both have a ***Start line*** followed by ***Headers***, an ***Empty line***, and finally, the ***Body*** of the message.
 
 > 📚 An *HTTP message* is a piece of data that follows a specific format. These messages are sent between a client and a server.

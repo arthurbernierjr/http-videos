@@ -2,43 +2,69 @@
 
 **Learning objective:** By the end of this lesson, students will be able to identify and explain the four primary HTTP methods: GET, POST, PUT, and DELETE.
 
-## HTTP Methods
+## HTTP methods
 
-[HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) are used to indicate the desired action to be performed on a given resource on the server.
+[HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) indicate the desired action to be performed on a given resource on the server. Since they are action oriented they are frequently referred to as HTTP verbs.
 
-| HTTP method | Desired action on the server |
-| ----------- | ---------------------------- |
+| HTTP method | Action taken by browser |
+| ----------- | ----------------------- |
 | `GET`    | Requests a specific resource from the server. Only used for retrieving data. |
-| `POST`   | Sends data to the server to create a new resource.                           |
-| `PUT`    | Sends data to the server to update an existing resource.                     |
+| `POST`   | Sends data to the server requesting to create a new resource.                |
+| `PUT`    | Sends data to the server requesting to update an existing resource.          |
 | `DELETE` | Requests the removal of a specified resource from the server.                |
 
-## Use Cases
+## Use cases
 
-Here are some real scenarios to see these methods in action:
+Here are some real scenarios, how users carry them out, and how the browser responds to that user action:
 
-A user wants to view the latest news articles on a news website.
+### `GET`
 
-- The user navigates to the news website and clicks on the "Latest News" section. The browser sends a **GET** request to the server to retrieve and display the latest news articles.
+**Scenario**: A user wants to view the latest news articles on a news website.
 
-A user is creating a new profile on a social media platform.
+**User action**: The user navigates to the news website and clicks on the ***Latest News*** section.
 
-- The user fills out a sign-up form with their details and clicks 'Submit'. This action sends a **POST** request to the server, instructing it to create a new user profile with the provided information.
+**Browser action**: The browser sends a `GET` request to the server to retrieve and display the latest news articles.
 
-A user is updating their profile picture on a social media account.
+### `POST`
 
-- The user selects a new profile picture and confirms the update. The browser sends a **PUT** request to the server, instructing it to replace the existing profile picture with the new one.
+**Scenario**: A user is creating a new profile on a social media platform.
 
-A user decides to delete a blog post they have written on a blogging platform.
+**User action**: The user fills out a sign-up form with their details and clicks **Submit**.
 
-- The user navigates to their blog post and clicks the 'Delete' button. The browser sends a **DELETE** request to the server, instructing it to remove that specific blog post.
+**Browser action**: This browser sends a **POST** request to the server, instructing it to create a new user profile with the provided information.
 
-## 🎓 You do
+### `PUT`
 
-**Scenario 1:** A user is checking their current balance on an online banking website.
+**Scenario**: A user has moved and is updating the address for their cell phone bill.
 
-1. Identify the HTTP method used when the user views their account balance without making any changes.
+**User action**: The user inputs their new address into a form and confirms the update.
 
-**Scenario 2:** On an e-commerce website, a user adds a new shipping address to their account.
+**Browser action**: The browser sends a **PUT** request to the server, instructing it to replace the existing address information with the new address.
 
-2. Identify the HTTP method used to add this new information to the user's account details.
+### `DELETE`
+
+**Scenario**: A user decides to delete a blog post they have written on a blogging platform.
+
+**User action**: The user navigates to their blog post and clicks the **Delete** button.
+
+**Browser action**: The browser sends a **DELETE** request to the server, instructing it to remove that specific blog post.
+
+## 🎓 You Do
+
+Given the below scenarios and user actions, determine the action taken by the browser.
+
+### Scenario 1
+
+**Scenario**: A user wants to check their balance on an online banking website.
+
+**User action**: The user navigates to view their account balance without making any changes.
+
+What action will the browser take?
+
+### Scenario 2
+
+**Scenario**: A user signs in to an existing account on an e-commerce website.
+
+**User action**: The user fills out a sign-in form with their username and password and clicks **Submit**.
+
+What action will the browser take?

@@ -2,11 +2,9 @@
 
 ## Lesson references
 
-- [Status Codes - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-- [MIME types - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
-- [HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-- [HTTP (Hypertext Transfer Protocol)](https://developer.mozilla.org/en-US/docs/Web/HTTP) 
-
-## Level Up references
-
-- [39 different HTTP Methods - IANA](http://www.iana.org/assignments/http-methods/http-methods.xhtml)
+- [MDN - HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [MDN - HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [MDN - HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [General Assembly](https://generalassemb.ly)
+- [MDN - Search results for: reduce](https://developer.mozilla.org/search?q=reduce)
+- [Hypertext Transfer Protocol (HTTP) Method Registry](http://www.iana.org/assignments/http-methods/http-methods.xhtml)

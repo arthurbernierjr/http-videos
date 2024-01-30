@@ -2,19 +2,22 @@
 
 ## Version 1.0 - Updates from legacy content
 
-This release modularizes the legacy HTTP request response cycle lecture and provides some other minor updates detailed below. Updates are provided here at the module level, but all subsequent updates should be documented at the lesson level.
+This release modularizes parts of the legacy Intro to Full-Stack Development and HTTP lecture and provides other updates detailed below. Updates are provided here at the module level, but all subsequent updates should be documented at the lesson level.
 
 ### Release details
 
-**Additions**
+#### Additions
 
-Fundamentals microlesson introducing HTTP
+- Expand on HTTP and HTTP request-response cycle concepts and fundamentals.
 
-**Changes**
+#### Changes
 
-Additional HTTP methods moved to levelup
-Refreshed assets
+- Update assets throughout.
+- Update content to be style guide compliant.
+- Expand on written lecture material to provide a more straightforward outline for instructors to deliver content with and to provide more thorough written documentation for students.
+- Additional HTTP methods moved to Level Up content.
 
-**Removals**
+#### Removals
 
-Section on how HTTP reqs run code on the server
+- Remove section on how HTTP reqs run code on the server to enable modularization and better concept division.
+- Remove details on exploring HTTP reqs in the browser.

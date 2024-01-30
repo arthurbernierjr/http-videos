@@ -2,7 +2,7 @@
 
 ## About
 
-In this module, you'll explore key aspects of HTTP including request-response fundamentals, HTTP methods, message structure, and how browsers send requests. You'll enhance your web development skills with practical insights into client-server communication. This module is ideal for students who are comfortable with basic web development and want to deepen their understanding of client-server interactions. 
+In this module, you'll explore key aspects of HTTP including request-response fundamentals, HTTP methods, message structure, and how browsers send requests. You'll enhance your web development skills with practical insights into client-server communication. This module is ideal for students who are comfortable with basic web development and want to deepen their understanding of client-server interactions.
 
 ## Prerequisites
 
@@ -10,23 +10,15 @@ In this module, you'll explore key aspects of HTTP including request-response fu
 
 ## Content
 
-| Lesson                                           | Video Time | Video | Skills        |
-|--------------------------------------------------|:----------:|:-----:|---------------|
-| [Concepts](./concepts/README.md)                 | --         | --    | Understanding the concept of HTTP |
-| [Fundamentals](./fundamentals/README.md)         | --         | --    | Explaining the HTTP request-response cycle |
-| [HTTP Methods](./http-methods/README.md)         | --         | --    | Defining basic HTTP methods: GET, POST, PUT, and DELETE |
-| [Anatomy of HTTP Request-Response Messages](./anatomy-of-http-request-response-messages/README.md) | -- | -- | Understanding Status Codes, Headers, and the Message Body in HTTP communication |
-| [Sending HTTP Requests From the Browser](./sending-http-requests-from-the-browser/README.md) | -- | -- | Defining URL structure and how browsers send different types of HTTP requests |
-| **Total content**                                | --         | --    |            |
-
-
-## Level Up content
-
-| Lesson                                                      | Video Time | Video | Skills        |
-|-------------------------------------------------------------|:----------:|:-----:|---------------|
-| [Additional HTTP methods](./level-up/additional-http-methods.md) | --         | --    | Examining all available HTTP methods |
-| **Total Level Up Content**                                  | --         | --    |            |
-
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| ------ |
+| [Concepts](./concepts/README.md)                                                                   | -- | -- | Understanding the concept of HTTP.                                               |
+| [Fundamentals](./fundamentals/README.md)                                                           | -- | -- | Explaining the HTTP request-response cycle.                                      |
+| [HTTP Methods](./http-methods/README.md)                                                           | -- | -- | Defining basic HTTP methods: `GET`, `POST`, `PUT`, and `DELETE`.                 |
+| [Anatomy of HTTP Request-Response Messages](./anatomy-of-http-request-response-messages/README.md) | -- | -- | Understanding status codes, headers, and the message body in HTTP communication. |
+| [Sending HTTP Requests From the Browser](./sending-http-requests-from-the-browser/README.md)       | -- | -- | Defining URL structure and how browsers send different types of HTTP requests.   |
+| [Additional HTTP methods](./additional-http-methods/README.md)                                     | -- | -- | Examining the available HTTP methods.                                            |
+| **Total content**                                                                                  | -- | -- |                                                                                  |
 
 ## References
 

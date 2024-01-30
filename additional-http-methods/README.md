@@ -1,4 +1,6 @@
-# ![HTTP Request-Response Cycle - Level Up - Additional HTTP Methods](./assets/hero.png)
+# ![HTTP Request-Response Cycle - Additional HTTP Methods](./assets/hero.png)
+
+tktk Hunter, could you remove the Level Up text from this?
 
 **Learning objective:** By the end of this lesson, students will get an overview of all of the available HTTP methods.
 

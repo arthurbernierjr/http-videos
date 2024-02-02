@@ -1,6 +1,6 @@
 # ![HTTP Request-Response Cycle - Additional HTTP Methods](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will get an overview of all of the available HTTP methods.
+**Learning objective:** By the end of this lesson, students will have access to resources to discover all of the available HTTP methods.
 
 ## Additional HTTP methods
 

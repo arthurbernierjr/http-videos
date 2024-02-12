@@ -58,7 +58,7 @@ Go to <https://developer.mozilla.org/search?q=reduce>.
 #### Components
 
 - **Protocol**: `https` - Signifies a secure, encrypted connection.
-- **Subdomain**: `developer.` - A subdomain of the `mozilla.org` domain. Subdomains organize different sections of websites and serves as a distinct section under the subdomain.
+- **Subdomain**: `developer.` - A subdomain of the `mozilla.org` domain. Subdomains organize different sections of websites and serve as a distinct section under the domain.
 - **Domain name**: `mozilla.org` - Represents the internet address of the website or server.
 - **Path**: `/search` - Identifies a specific resource or page, in this case, the search page on the website.
 - **Query parameters**: `?q=reduce` - Sends additional information to the server. Here, `q=reduce` indicates a search query for the term "reduce".

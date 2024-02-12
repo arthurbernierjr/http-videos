@@ -13,7 +13,7 @@ Let's take a deeper look into each stage of this the request-response cycle:
     - Think of each action you take as a specific request. Different types of requests may be carried out depending on the type of action that is made, but all generate requests.
 2. The client software processes the user interaction and relays an HTTP request:
     - Your browser turns your action into an HTTP request. This includes choosing the right method (like GET or POST), the URL, and additional details like browser type.
-    - Different actions (like clicking a link vs. submitting a form) use different requests methods. It's like choosing a different way to ask for something.
+    - Different actions (like clicking a link vs. submitting a form) use different request methods. It's like choosing a different way to ask for something.
 3. The server software receives the request:
     - The server receives your request and decides what action to take next.
 4. The server prepares its response:
@@ -25,4 +25,4 @@ Let's take a deeper look into each stage of this the request-response cycle:
     - Your browser gets the response and acts on it. If it's a webpage, your browser shows it to you. If there's an error, it lets you know.
     - Your browser's job is to make sense of the server's response. Just like when you receive an answer, you react based on what you hear.
 
-When the client receives the response, that request-response cycle has ended, and there will be no further HTTP communications unless another the client sends another request.
+When the client receives the response, that request-response cycle has ended, and there will be no further HTTP communications unless the client sends another request.

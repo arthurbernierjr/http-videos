@@ -4,7 +4,7 @@
 
 ## HTTP methods
 
-[HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) indicate the desired action to be performed on a given resource on the server. Since they are action oriented they are frequently referred to as HTTP verbs.
+[HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) indicate the desired action to be performed on a given resource on the server. Since they are action-oriented, they are frequently referred to as HTTP verbs.
 
 | HTTP method | Action taken by browser |
 | ----------- | ----------------------- |
@@ -51,7 +51,7 @@ Here are some real scenarios, how users carry them out, and how the browser resp
 
 ## 🎓 You Do
 
-Given the below scenarios and user actions, determine the action taken by the browser.
+Given the scenarios and user actions below, determine the action taken by the browser.
 
 ### Scenario 1
 
@@ -71,4 +71,4 @@ What action will the browser take?
 
 ## Additional HTTP methods
 
-There are many HTTP methods that you will likely encounter in your career beyond `GET`, `POST`, `PUT`, and `DELETE`. It is helpful to be aware of the most common HTTP methods and to understand how they can be used. See this documentation from [Mozilla's developer network](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) that explains the 9 most common ones.
+There are many HTTP methods that you will likely encounter in your career beyond `GET`, `POST`, `PUT`, and `DELETE`. It is helpful to be aware of the most common HTTP methods and understand how they can be used. See this documentation from [Mozilla's developer network](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) that explains the nine most common ones.

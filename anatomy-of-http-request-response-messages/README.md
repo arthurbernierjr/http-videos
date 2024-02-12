@@ -65,5 +65,3 @@ When a client sends a request to a server, the body of the message may include d
 The response from the server often includes a body containing the requested data.
 
 In the above example, the body of the request contains data, while the body of the response returns HTML to be displayed.
-
-> 📚 A *binary format* refers to data represented in binary code, consisting of only 1s and 0s.

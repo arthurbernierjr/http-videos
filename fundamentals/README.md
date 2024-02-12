@@ -19,7 +19,7 @@ Let's take a deeper look into each stage of the request-response cycle:
 4. The server prepares its response:
     - Servers can do a lot based on your request. When you ask for a webpage, the server finds all the pieces to assemble it for you. It might grab data, update something, or perform another task.
 5. The server returns a response message:
-    - After the server does its work, it sends back a response. This includes a status code (like '200' for success) and often the data you asked for.
+    - After the server does its work, it sends back a response. This includes a status code (like `200` for success) and often the data you asked for.
     - The status code is a quick way for the server to tell your browser how things went (success, error, or something else).
 6. The client processes the response:
     - Your browser gets the response and acts on it. If it's a webpage, your browser shows it to you. If there's an error, it lets you know.

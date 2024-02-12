@@ -68,3 +68,7 @@ What action will the browser take?
 **User action**: The user fills out a sign-in form with their username and password and clicks **Submit**.
 
 What action will the browser take?
+
+## Additional HTTP methods
+
+There are many HTTP methods that you will likely encounter in your career beyond `GET`, `POST`, `PUT`, and `DELETE`. It is helpful to be aware of the most common HTTP methods and to understand how they can be used. See this documentation from [Mozilla's developer network](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) that explains the 9 most common ones.

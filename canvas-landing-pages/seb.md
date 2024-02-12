@@ -15,13 +15,6 @@ In this module, you'll explore key aspects of HTTP including request-response fu
 | [Sending HTTP Requests From the Browser](../sending-http-requests-from-the-browser/README.md)       | -- | -- | Defining URL structure and how browsers send different types of HTTP requests.   |
 | **Total content**                                                                                   | -- | -- |                                                                                  |
 
-## Level Up content
-
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Additional HTTP methods](../additional-http-methods/README.md) | -- | -- | Examining the available HTTP methods. |
-| **Total Level Up Content**                                      | -- | -- |                                       |
-
 ## References
 
 📖 [Reference Materials](../references/README.md)

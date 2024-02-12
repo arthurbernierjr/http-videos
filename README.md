@@ -17,7 +17,6 @@ In this module, you'll explore key aspects of HTTP including request-response fu
 | [HTTP Methods](./http-methods/README.md)                                                           | -- | -- | Defining basic HTTP methods: `GET`, `POST`, `PUT`, and `DELETE`.                 |
 | [Anatomy of HTTP Request-Response Messages](./anatomy-of-http-request-response-messages/README.md) | -- | -- | Understanding status codes, headers, and the message body in HTTP communication. |
 | [Sending HTTP Requests From the Browser](./sending-http-requests-from-the-browser/README.md)       | -- | -- | Defining URL structure and how browsers send different types of HTTP requests.   |
-| [Additional HTTP methods](./additional-http-methods/README.md)                                     | -- | -- | Examining the available HTTP methods.                                            |
 | **Total content**                                                                                  | -- | -- |                                                                                  |
 
 ## References

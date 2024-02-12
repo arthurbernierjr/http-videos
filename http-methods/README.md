@@ -9,7 +9,7 @@
 | HTTP method | Action taken by browser |
 | ----------- | ----------------------- |
 | `GET`    | Requests a specific resource from the server. Only used for retrieving data. |
-| `POST`   | Sends data to the server requesting to create a new resource.                |
+| `POST`   | Sends data to the server. Often this request will create a new resource but can be used for any type of request that submits information to a server. |
 | `PUT`    | Sends data to the server requesting to update an existing resource.          |
 | `DELETE` | Requests the removal of a specified resource from the server.                |
 
@@ -31,7 +31,7 @@ Here are some real scenarios, how users carry them out, and how the browser resp
 
 **User action**: The user fills out a sign-up form with their details and clicks **Submit**.
 
-**Browser action**: This browser sends a **POST** request to the server, instructing it to create a new user profile with the provided information. This method is also used to submit any type of information to a server - for example, to log a user in.
+**Browser action**: This browser sends a **POST** request to the server, instructing it to create a new user profile with the provided information.
 
 ### `PUT`
 

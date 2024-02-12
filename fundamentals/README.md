@@ -4,7 +4,7 @@
 
 ## Understanding the request-response cycle
 
-Let's take a deeper look into each stage of this the request-response cycle:
+Let's take a deeper look into each stage of the request-response cycle:
 
 ![HTTP Request-Response Cycle Steps](./assets/req-res-steps.png)
 

@@ -1,4 +1,7 @@
-# ![HTTP Request-Response Cycle - Anatomy of HTTP Request-Response Messages](./assets/hero.png)
+<h1>
+  <span class="headline">Http Request Response Cycle</span>
+  <span class="subhead">Anatomy of Http Request Response Messages</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to describe the structure and components of HTTP request and response messages, including status codes, headers, and the message body in both requests and responses.
 

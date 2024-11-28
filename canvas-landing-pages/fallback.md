@@ -1,7 +1,7 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Http Request Response Cycle</span>
+  <span class="headline">HTTP Request Response Cycle</span>
 </h1>
 
 ## About

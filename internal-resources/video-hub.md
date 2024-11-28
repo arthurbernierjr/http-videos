@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Http Request Response Cycle</span>
+  <span class="headline">HTTP Request Response Cycle</span>
   <span class="subhead">Video Hub</span>
 </h1>
 

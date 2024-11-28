@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Http Request Response Cycle</span>
-  <span class="subhead">Http Methods</span>
+  <span class="headline">HTTP Request Response Cycle</span>
+  <span class="subhead">HTTP Methods</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to identify and explain the four primary HTTP methods: `GET`, `POST`, `PUT`, and `DELETE`.

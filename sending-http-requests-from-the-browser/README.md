@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Http Request Response Cycle</span>
-  <span class="subhead">Sending Http Requests From the Browser</span>
+  <span class="headline">HTTP Request Response Cycle</span>
+  <span class="subhead">Sending HTTP Requests From the Browser</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to identify and explain the various methods a browser uses to send HTTP requests, including the URL's role in navigating to requested resources.

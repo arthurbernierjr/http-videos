@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Http Request Response Cycle</span>
+  <span class="headline">HTTP Request Response Cycle</span>
   <span class="subhead">Concepts</span>
 </h1>
 

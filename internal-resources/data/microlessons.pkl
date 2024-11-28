@@ -17,21 +17,21 @@ fundamentals = new Template.Microlesson {
 }
 
 httpMethods = new Template.Microlesson {
-  friendlyName = "Http Methods"
+  friendlyName = "HTTP Methods"
   dirName = "http-methods"
   type = "Content"
   videoUrl = ""
 }
 
 anatomyOfHttpRequestResponseMessages = new Template.Microlesson {
-  friendlyName = "Anatomy of Http Request Response Messages"
+  friendlyName = "Anatomy of HTTP Request Response Messages"
   dirName = "anatomy-of-http-request-response-messages"
   type = "Content"
   videoUrl = ""
 }
 
 sendingHttpRequestsFromTheBrowser = new Template.Microlesson {
-  friendlyName = "Sending Http Requests From the Browser"
+  friendlyName = "Sending HTTP Requests From the Browser"
   dirName = "sending-http-requests-from-the-browser"
   type = "Content"
   videoUrl = ""

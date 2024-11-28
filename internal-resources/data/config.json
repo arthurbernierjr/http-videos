@@ -40,7 +40,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "HTTP Methods",
+          "friendlyName": "Http Methods",
           "dirName": "http-methods",
           "type": "Content",
           "skill": "",
@@ -50,7 +50,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Anatomy of HTTP Request Response Messages",
+          "friendlyName": "Anatomy of Http Request Response Messages",
           "dirName": "anatomy-of-http-request-response-messages",
           "type": "Content",
           "skill": "",
@@ -60,7 +60,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Sending HTTP Requests From the Browser",
+          "friendlyName": "Sending Http Requests From the Browser",
           "dirName": "sending-http-requests-from-the-browser",
           "type": "Content",
           "skill": "",
@@ -119,7 +119,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "HTTP Methods",
+          "friendlyName": "Http Methods",
           "dirName": "http-methods",
           "type": "Content",
           "skill": "",
@@ -129,7 +129,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Anatomy of HTTP Request Response Messages",
+          "friendlyName": "Anatomy of Http Request Response Messages",
           "dirName": "anatomy-of-http-request-response-messages",
           "type": "Content",
           "skill": "",
@@ -139,7 +139,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Sending HTTP Requests From the Browser",
+          "friendlyName": "Sending Http Requests From the Browser",
           "dirName": "sending-http-requests-from-the-browser",
           "type": "Content",
           "skill": "",

@@ -1,4 +1,7 @@
-# ![HTTP Request-Response Cycle - Fundamentals](./assets/hero.png)
+<h1>
+  <span class="headline">Http Request Response Cycle</span>
+  <span class="subhead">Fundamentals</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to explain the HTTP request-response cycle in detail, including understanding the roles and actions of both the client and server at each stage.
 

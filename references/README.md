@@ -1,4 +1,7 @@
-# ![HTTP Request-Response Cycle - References](./assets/hero.png)
+<h1>
+  <span class="headline">Http Request Response Cycle</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references
 
